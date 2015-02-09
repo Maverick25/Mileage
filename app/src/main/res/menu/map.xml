@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/useCurrent"
+        android:showAsAction="always"
+        android:title="@string/currentLocation"
+        android:icon="@drawable/aim"/>
+    <item
+        android:id="@+id/fromList"
+        android:showAsAction="always"
+        android:title="@string/getFromList"
+        android:icon="@drawable/list"/>
+    
+    <item
+        android:id="@+id/manually"
+        android:showAsAction="always"
+        android:title="@string/enterManually"
+        android:icon="@drawable/pencil"/>
+    <item
+        android:id="@+id/office"
+        android:showAsAction="always"
+        android:title="@string/office"
+        android:icon="@drawable/briefcase"/>
+    <item
+        android:id="@+id/home"
+        android:showAsAction="always"
+        android:title="@string/home"
+        android:icon="@drawable/home"/>
+    
+    
+   
+
+</menu>

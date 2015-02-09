@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mileage</string>
+    <string name="action_settings">Settings</string>
+    <string name="showMap">Show Map</string>
+    <string name="refresh_main"></string>
+    <string name="logout">Logout</string>
+    <string name="startTracking">Start</string>
+    <string name="pauseTracking">Pause</string>
+    <string name="stopTracking">Stop</string>
+    <string name="resultView">-.- km</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="track_progress_status">Calculating Distance</string>
+    <string name="error_maps">Failed Loading Map! Check your Connectivity</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_server">Server</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="login_progress_signing_in">Signing in&#8230;</string>
+    <string name="error_invalid_server">This server name is invalid</string>
+    <string name="error_invalid_username">This user name is invalid on this server</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="remember_switch">Remember Me</string>
+    <string name="title_activity_selection">Select </string>
+    <string name="inputSearch">Search </string>
+    <string name="loadingData">Loading Data..</string>
+    <string name="title_activity_map">Select Starting Location</string>
+    <string name="currentLocation">Use Current Location</string>
+    <string name="getFromList">Get From List</string>
+    <string name="enterManually">Enter Manually</string>
+    <string name="home">Home</string>
+    <string name="office">Office</string>
+    <string name="title_activity_comments">Add Comments</string>
+    <string name="done_comments">Done</string>
+    <string name="title_activity_date">DateActivity</string>
+    <string name="done_date">Done</string>
+    <string name="settings_title">Settings</string>
+    <string name="version">Version:\t\t1.0\nbrought to you by Workbook Software A/S\nhttp://workbook.net\ndeveloper: Marek Rigan</string>
+    <string name="tracking_interval">Tracking Interval:</string>
+    <string name="tracking_interval_value"> s</string>
+    <string name="distance_unit">Distance Unit:</string>
+    <string-array name="distance_unit_values">
+        <item>km</item>
+        <item>miles</item>
+    </string-array>
+    <string name="contentDescription">WorkBook Logo</string>
+
+</resources>
